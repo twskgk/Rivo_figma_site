@@ -1,0 +1,82 @@
+.maxwidth {
+    width: 100%;
+    max-width: 1920px;
+    margin: auto;
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1080px;
+}
+
+.flexbox {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.right_group {
+    margin-right: 216px;
+    margin-top: 65px;
+    display: flex;
+    align-items: center;
+    gap: 98px;
+
+}
+
+.left_group {
+    margin-top: 55px;
+    display: flex;
+    align-items: center;
+    margin-right: 377px;
+    margin-left: 174px;
+}
+
+.middle_group {
+    padding-top: 63px;
+    display: flex;
+    align-items: flex-end;
+    gap: 57px;
+    margin-left: 0px;
+}
+
+.font {
+    font-size: 86px;
+    color: #224F34;
+    padding: 100px 171px 0;
+}
+
+.font2 {
+    font-size: 24px;
+    color: #267D49;
+    padding: 0px 171px;
+}
+
+.button {
+    background-color: #224F34;
+    color: white;
+    border: none;
+    outline: none;
+    background-size: 74px;
+    margin: 54px 174px;
+    padding: 20px 40px;
+}
+
+.people {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -680px;
+    margin-right: 175px;
+    gap: 40px;
+}
+
+.dot1 {
+    display: flex;
+    justify-content: flex-end;
+    margin: -300px 600px;
+}
+
+.dot2 {
+    display: flex;
+    justify-content: flex-end;
+    margin: -470px 190px;
+}
