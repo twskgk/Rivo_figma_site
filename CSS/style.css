@@ -80,3 +80,9 @@
     justify-content: flex-end;
     margin: -470px 190px;
 }
+
+.login2 {
+ display: flex;
+ justify-content: flex-end;
+ margin-right: 173px;
+}
